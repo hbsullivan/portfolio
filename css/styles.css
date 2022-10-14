@@ -1,11 +1,14 @@
 body{
   font-family: Arial, Helvetica, sans-serif;
-  background-color: teal;
+  background-image: linear-gradient(to left, #008081, #57C3AD);
   color: white;
 }
 
 .intro {
   float: left;
+  font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #553c9a, #d5b9f2);
   color: white;
 }
 
@@ -16,9 +19,10 @@ body{
 .picofme{
   border: 3px solid rgb(195, 195, 245);
   display: block;
-  margin: auto;
-  height: 170px;
-  right: 0;
+  position: relative;
+  left: 25%;
+  margin: 2px;
+
 }
 
 .aboutme{
@@ -27,7 +31,7 @@ body{
   border: 3px solid rgb(195, 195, 245);
   margin: 5px;
   padding: 5px;
-  background-color: rgb(195, 195, 245);
+  background-image: linear-gradient(to left, #553c9a, #d5b9f2);
 }
 
 .aboutme a{
@@ -40,6 +44,7 @@ body{
   border: 3px solid rgb(195, 195, 245);
   margin: 5px;
   padding: 5px;
+  background-image: linear-gradient(to left, #008081, #57C3AD)
 }
 
 .projects a {
@@ -52,7 +57,7 @@ body{
   border: 3px solid rgb(195, 195, 245);
   margin: 5px;
   padding: 5px;
-  background-color: rgb(195, 195, 245);
+  background-image: linear-gradient(to left, #553c9a, #d5b9f2);
 }
 
 .background a {
@@ -65,6 +70,7 @@ body{
   border: 3px solid rgb(195, 195, 245);
   margin: 5px;
   padding: 5px;
+  background-image: linear-gradient(to left, #008081, #57C3AD)
 }
 
 h4{
