@@ -23,7 +23,7 @@ _This wepage will be the landing page for my programming portfolio. It tells a l
 
 ## Known Bugs
 
-* _Strange border around Interests/Hobbies section when code containing bootstrap (lines 75-116) is commented in._
+* _Strange border around Interests/Hobbies section when code containing bootstrap (html lines 75-116) and (css lines 159-188)are commented in._
 
 ## License
 
