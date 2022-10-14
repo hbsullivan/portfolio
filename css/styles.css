@@ -1,0 +1,49 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.intro {
+  float: left;
+}
+
+.picofme{
+  border: 3px solid black;
+  display: block;
+  margin: auto;
+  height: 170px;
+  right: 0;
+}
+
+.aboutme{
+  float: left;
+  border: 3px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.projects{
+  float: left;
+  border: 3px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.background{
+  float: left;
+  border: 3px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.hobby{
+  float: left;
+  border: 3px solid black;
+  margin: 5px;
+  width: 100%;
+  padding: 5px;
+}
+
+h4{
+  text-decoration: underline;
+}
+
