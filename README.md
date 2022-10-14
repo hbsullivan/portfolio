@@ -2,7 +2,7 @@
 
 #### By _**Henry Sullivan**_
 
-#### _Webpage is designed to be the landing page of my programming portfolio. _
+#### _Webpage is designed to be the landing page of my programming portfolio._
 
 ## Technologies Used
 
@@ -11,7 +11,7 @@
 
 ## Description
 
-_This wepage will be the landing page for my programming portfolio. It tells a little bit about me, including my background and my interests. It also lists any projects that I have completed, as well as providing links to said projects and any languages used.
+_This wepage will be the landing page for my programming portfolio. It tells a little bit about me, including my background and my interests. It also lists any projects that I have completed, as well as providing links to said projects and any languages used._
 
 ## Setup/Installation Requirements
 
