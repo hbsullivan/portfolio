@@ -30,7 +30,7 @@ _This wepage will be the landing page for my programming portfolio. It tells a l
 
 MIT License
 
-Copyright (c) [2020] [Henry Sullivan]
+Copyright (c) [2022] [Henry Sullivan]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
